@@ -4,4 +4,6 @@
 ```
 pip install -r requirements.txt
 ```
-Put your target picture and style picture in a working directory and just run all cells in `StyleTransfer.ipynb`
+Put your content picture and style picture in a working directory and just run all cells in `StyleTransfer.ipynb`
+
+![Image](image.jpg)
